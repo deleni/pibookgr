@@ -1,0 +1,13 @@
+---
+title: quote7
+text: 'Είναι πολύ δύσκολο να σχεδιάζεις προϊόντα με το να επικεντρώνεσαι σε συγκεκριμένες ομάδες ανθρώπων. Πολλές φορές, οι άνθρωποι δεν ξέρουν τι θέλουν μέχρι την στιγμή που θα τους το δείξεις. '
+person: Steve Jobs
+layout: quote
+header: no
+show_meta: false
+categories:
+  - quotes
+tags:
+  - models
+  - Steve Jobs
+---
