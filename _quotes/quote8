@@ -1,0 +1,13 @@
+---
+title: quote8
+text: 'Ο τρόπος για να ξεκινήσεις κάτι καινούργιο είναι να σταματήσεις να μιλάς και να αρχίσεις να πράττεις.'
+person: Walt Disney
+layout: quote
+header: no
+show_meta: false
+categories:
+  - quotes
+tags:
+  - models
+  - Walt Disney
+---
